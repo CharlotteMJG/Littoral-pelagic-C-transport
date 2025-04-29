@@ -1,0 +1,24 @@
+Holgerson, M. A., & Raymond, P. A. (2016). Large contribution to inland water CO2 and CH4 emissions from very small ponds. Nature Geoscience, 9(3), 222-226. https://doi.org/10.1038/ngeo2654
+
+JŠhne, B., MŸnnich, K. O., Bšsinger, R., Dutzi, A., Huber, W., & Libner, P. (1987). On the parameters influencing air-water gas exchange. Journal of Geophysical Research: Oceans, 92(C2), 1937-1949. https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/JC092iC02p01937
+
+Johansson, H., Brolin, A. A., & HŒkanson, L. (2007). New Approaches to the Modelling of Lake Basin Morphometry. Environmental Modeling & Assessment, 12(3), 213-228. https://doi.org/10.1007/s10666-006-9069-z
+
+Peeters, F., Encinas Fernandez, J., & Hofmann, H. (2019). Sediment fluxes rather than oxic methanogenesis explain diffusive CH4 emissions from lakes and reservoirs. Scientific Reports, 9(1), 243. https://doi.org/10.1038/s41598-018-36530-w
+
+Raymond, P. A., Hartmann, J., Lauerwald, R., Sobek, S., McDonald, C., Hoover, M., et al. (2013). Global carbon dioxide emissions from inland waters. Nature, 503(7476), 355-359. Article. http://dx.doi.org/10.1038/nature12760
+
+Soetaert, K., Petzoldt, T., & Setzer, R. (2010). Solving Differential Equations in R: Package deSolve. Journal of Statistical Software, 33. 
+
+Vadeboncoeur, Y., McIntyre, P. B., & Vander Zanden, M. J. (2011). Borders of Biodiversity: Life at the Edge of the World's Large Lakes. BioScience, 61(7), 526-537. https://doi.org/10.1525/bio.2011.61.7.7 
+
+Verpoorter, C., Kutser, T., Seekell, D. A., & Tranvik, L. J. (2014). A global inventory of lakes based on high-resolution satellite imagery. Geophysical Research Letters, 41(18), 6396-6402. https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1002/2014GL060641
+
+Weiss, R. (1974). Carbon dioxide in water and seawater: the solubility of a non-ideal gas. Marine Chemistry, 2, 203-215.
+ 
+Yamamoto, S., Alcauskas, J. B., & Crozier, T. E. (1976). Solubility of methane in distilled water and seawater. Journal of Chemical & Engineering Data, 21(1), 78-80. http://dx.doi.org/10.1021/je60068a029
+
+Zhang, Y., Jeppesen, E., Liu, X., Qin, B., Shi, K., Zhou, Y., Thomaz, S. M., & Deng, J. (2017). Global loss of aquatic vegetation in lakes. Earth-Science Reviews, 173, 259-265. https://doi.org/https://doi.org/10.1016/j.earscirev.2017.08.013 
+
+
+
